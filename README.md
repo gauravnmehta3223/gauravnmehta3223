@@ -2,6 +2,8 @@
 
 I'm looking for entry-level roles in **machine learning, data science and data engineering**. I build end-to-end projects in Python: data pipelines, model training and evaluation, and dashboards.
 
+**Portfolio:** [gauravnmehta3223.github.io](https://gauravnmehta3223.github.io/)
+
 ### Featured projects
 
 | Project | What it shows |
