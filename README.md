@@ -18,7 +18,7 @@ I'm looking for entry-level roles in **machine learning, data science and data e
 
 **Languages:** Python, SQL, TypeScript, JavaScript
 
-**Machine learning:** PyTorch, TensorFlow/Keras, Hugging Face Transformers, scikit-learn, Flower, Opacus, Ollama
+**Machine learning:** PyTorch, TensorFlow/Keras, Hugging Face Transformers, scikit-learn, Flower, Ollama
 
 **Data:** pandas, NumPy, PostgreSQL, Plotly, Matplotlib, Streamlit
 
